@@ -1,4 +1,4 @@
-## Welcome to project _Using Machine Learning For Quantum Chemistry_
+## _Using Machine Learning For Quantum Chemistry_
 
 #### Introduction:
 - This is the README.md file for __Milestone 1__, __Milestone 2__ and  __Milestone 2__, produced by Reza Sadoughian zadeh, @sezar543 and Peter Gysbers.
