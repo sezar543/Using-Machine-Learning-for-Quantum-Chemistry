@@ -1,9 +1,13 @@
 ## _Using Machine Learning For Quantum Chemistry_
 
 #### Introduction:
-- This is the README.md file for __Milestone 1__, __Milestone 2__ and  __Milestone 2__, produced by Reza Sadoughian zadeh, @sezar543 and Peter Gysbers.
+- This is the README.md file for the project "Using Machine Learning For Quantum Chemistry", produced by Reza Sadoughian zadeh, @sezar543 and Peter Gysbers.
 - This project was done for the course CPSC 340 at UBC during the fall semester in 2019 .
 
+#### Objective:
+
+The goal of this project was to review the following paper and discuss future research that needs to performed.
+[link](https://arxiv.org/abs/1906.04015v1)
 
 #### Preface:
 
