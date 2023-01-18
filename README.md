@@ -6,7 +6,7 @@
 
 #### Objective:
 
-The goal of this project was to review the following paper and discuss future research that needs to performed.
+The goal of this project was to review the following paper and discuss future research that can be performed to improve results.
 [link](https://arxiv.org/abs/1906.04015v1)
 
 #### Preface:
